@@ -1,0 +1,1 @@
+console.log("História java e js"); // Saída no console
